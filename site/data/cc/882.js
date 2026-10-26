@@ -1,0 +1,1 @@
+DCX.chunk("882",{"c":{"t":["Maritime Communications Partner (MCP)","Oration Technologies","BebbiCell AG","AT&T Cingular Wireless Network","Monaco Telecom","Phonegroup"],"e":{"2":"w:0,0:1,3:3,b:4,0:5","3":"9i:2,4:2"}}});

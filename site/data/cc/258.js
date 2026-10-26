@@ -1,0 +1,1 @@
+DCX.chunk("258",{"g":{"t":["Maputo","Beira","Quelimane","Manica","Tete","Nampula","Lichinga","Pemba","Chokwe","Xai-Xai","Inhambane"],"e":{"2":"l:0,1:1,0:2,1:5,2:a","3":"6z:3,0:4,i:6,0:7,8:8,0:9"}},"c":{"t":["mcel","Vodacom","Movitel","GMPCS"],"e":{"2":"2a.1:0,0.1:1,0.2:2,0:3"}},"z":{"t":["Africa/Maputo"],"e":{"0":"0:0"}}});

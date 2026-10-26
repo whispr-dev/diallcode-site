@@ -1,0 +1,1 @@
+DCX.chunk("221",{"g":{"t":["Dakar","Outside Dakar"],"e":{"3":"9e:0,0:1"}},"c":{"t":["Expresso","Orange","HAYO","Promobile","Yas","ADIE"],"e":{"2":"1y:0,0:1,0:2,2:3,0:4,0.1:1,0:5"}},"z":{"t":["Africa/Dakar"],"e":{"0":"0:0"}}});

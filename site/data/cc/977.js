@@ -1,0 +1,1 @@
+DCX.chunk("977",{"c":{"t":["NCell","STM Telecom","Smart Telecom","NSTPL","UTL","NDCL","Nepal Telecom"],"e":{"2":"2i:0","3":"qo:1,0.1:2,0:3,6.1:0,0:4,1.1:5,0:6,3.2:0,1.2:6,1:2"}},"z":{"t":["Asia/Katmandu"],"e":{"0":"0:0"}}});

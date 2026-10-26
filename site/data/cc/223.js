@@ -1,0 +1,1 @@
+DCX.chunk("223",{"g":{"t":["Bamako","Koulikoro","Mopti","Kayes","Sikasso","Gao/Kidal","Tombouctou"],"e":{"3":"5m:0,9:1,1:2,0:3,0:4,1:5,0:6,66.1:0,5:0","4":"1li.8:0"}},"c":{"t":["Orange","Sotelma","Atel"],"e":{"1":"5:2,0:1,0:0","2":"2a.3:0,3:1,0.4:0,0.4:1","3":"5k:0,g:1","4":"1lr:1"}},"z":{"t":["Africa/Bamako"],"e":{"0":"0:0"}}});

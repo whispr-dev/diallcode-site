@@ -1,0 +1,1 @@
+DCX.chunk("252",{"g":{"t":["Mogadishu","Hargeisa","Garowe"],"e":{"1":"1:0,1:1,0:2"}},"c":{"t":["Telesom","Nationlink","AirSom","Golis Telecom","Hormuud","Somtel","Somali Networks","SomNet","Amtel","STG"],"e":{"1":"9:9","2":"o:0,3:1,6:2,3:2,8.1:2,a:3,0:4,0:5,0:0,0:6,0.1:5,0:1,0:7,0:1,0:3,0:8,0:3,0:0,1:8,0:5,0.1:4,0:5,0:6,7:6,1:3"}},"z":{"t":["Africa/Mogadishu"],"e":{"0":"0:0"}}});

@@ -1,0 +1,1 @@
+DCX.chunk("423",{"c":{"t":["Telecom Liechtenstein","Cubic","Dimoco","FL1","Datamobile AG","Velos IoT","First Mobile","Swisscom","Salt"],"e":{"2":"1s:0,0:1,0:0,6:0,0:6,2:7,0:8,0:0","3":"i2:0,8:0,6:4,1:5","4":"53m:2,0:3"}},"z":{"t":["Europe/Vaduz"],"e":{"0":"0:0"}}});

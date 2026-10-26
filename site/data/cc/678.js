@@ -1,0 +1,1 @@
+DCX.chunk("678",{"g":{"t":["Port Vila, Shefa","Sanma","Luganville","Penama/Torba","Malampa","Tafea"],"e":{"1":"4:4","2":"m.7:0,6:1,0:2,0:3,1d:5"}},"c":{"t":["Digicel","Telecom Vanuatu Ltd","Wan Tok"],"e":{"1":"5:0,1:1,0:2"}},"z":{"t":["Pacific/Efate"],"e":{"0":"0:0"}}});

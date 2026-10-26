@@ -1,0 +1,1 @@
+DCX.chunk("973",{"c":{"t":["Telecommunications Regulatory Authority","Royal Court","Batelco","STC","zain BH"],"e":{"2":"u:0,0:1,0:2,0.2:3,0.1:4,0.1:2,n:3,0:2","3":"ap:0,7s:4,2:4","4":"2ia:3,2lv:4,2.6:4,u.6:2,1.1:2"}},"z":{"t":["Asia/Bahrain"],"e":{"0":"0:0"}}});

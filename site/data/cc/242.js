@@ -1,0 +1,1 @@
+DCX.chunk("242",{"g":{"t":["Cuvette","Likouala/Sangha","Pool","Plateaux","Bouenza/Lekoumou/Niari","Brazzaville","Pointe-Noire"],"e":{"4":"1pp:0,0:1,0:2,0:3,0:4,2:5,0:6"}},"c":{"t":["Equateur Telecom","Congo telecom","Warid","Airtel","MTN"],"e":{"2":"1:0,0:1,1:2,0:3,0:4"}},"z":{"t":["Africa/Brazzaville"],"e":{"0":"0:0"}}});

@@ -1,0 +1,1 @@
+DCX.chunk("670",{"g":{"t":["Manufahi","Cova Lima","Bobonaro","Ainaro","Dekuse","Dili","Liquica","Aileu","Ermera","Oekusi","Baucau","Manatuto","Viqueque","Lautem"],"e":{"2":"l:0,0:1,0:2,0:3,0:4,5.2:5,2:6,0:7,0:8,0:9,1:a,0:b,0:c,0:d"}},"c":{"t":["Timor Telecom","Telkomcel","Viettel (Telemor brand)"],"e":{"2":"20:0,0.1:1,0.1:2,0.1:0"}},"z":{"t":["Asia/Dili"],"e":{"0":"0:0"}}});

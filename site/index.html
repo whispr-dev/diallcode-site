@@ -1,0 +1,153 @@
+<!doctype html>
+<!-- diallcode.site — Copyright (c) 2026 whispr.dev -->
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>diallcode — country &amp; area code lookup, number checker</title>
+  <meta name="description" content="Instant country code and area code lookup. Paste any phone number: diallcode works out the country, area, type, local time and whether it's an emergency, toll-free, premium or film &amp; TV number — entirely in your browser.">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; font-src 'self'; connect-src 'none'; object-src 'none'; base-uri 'none'; form-action 'none'">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
+  <meta name="color-scheme" content="dark">
+  <meta name="theme-color" content="#0d1117">
+  <meta name="darkreader-lock">
+  <link rel="canonical" href="https://diallcode.site/">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://diallcode.site/">
+  <meta property="og:site_name" content="diallcode">
+  <meta property="og:title" content="diallcode — country &amp; area code lookup">
+  <meta property="og:description" content="Paste any phone number. Get the country, area, type, local time and every special meaning — worked out in your browser.">
+  <meta name="twitter:card" content="summary">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%230d1117'/%3E%3Cpath d='M9 7h4l2 6-3 2a12 12 0 0 0 5 5l2-3 6 2v4a2 2 0 0 1-2 2C14 25 7 18 7 9a2 2 0 0 1 2-2z' fill='%231f8fa8'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="assets/styles.css">
+  <script defer src="assets/vendor/libphonenumber-max.js"></script>
+  <script defer src="assets/meta.js"></script>
+  <script defer src="assets/engine.js"></script>
+  <script defer src="assets/vanity.js"></script>
+  <script defer src="data/base.js"></script>
+  <script defer src="assets/app.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <div class="wrap topbar-in">
+      <a class="brand" href="./" aria-label="diallcode home">
+        <svg class="brand-mark" viewBox="0 0 32 32" aria-hidden="true"><path d="M9 7h4l2 6-3 2a12 12 0 0 0 5 5l2-3 6 2v4a2 2 0 0 1-2 2C14 25 7 18 7 9a2 2 0 0 1 2-2z"/></svg>
+        <span>diallcode<span class="tld">.site</span></span>
+      </a>
+      <a class="by" href="https://whispr.dev/" rel="noopener">by <strong>whispr.dev</strong></a>
+    </div>
+  </header>
+
+  <main class="wrap layout">
+    <section class="tool" aria-labelledby="tool-title">
+      <h1 id="tool-title">Look up any phone number, country code or area code</h1>
+      <p class="lede">Type it however you've got it. diallcode works out where it is, what kind of number it is, and every special meaning — in your browser.</p>
+
+      <form class="search" id="search" role="search" autocomplete="off" novalidate>
+        <label class="visually-hidden" for="q">Phone number, country code or area code</label>
+        <div class="field">
+          <input id="q" name="q" type="text" inputmode="tel" spellcheck="false" autocapitalize="off" autocorrect="off" maxlength="80"
+                 placeholder="+44 20 7946 0123 · 0161 · (212) 555-0199 · 999" aria-describedby="hint" aria-controls="results">
+          <button class="clear" id="clear" type="button" aria-label="Clear" hidden>&times;</button>
+        </div>
+        <div class="search-meta">
+          <label class="from" for="home">Dialling from
+            <select id="home" aria-describedby="home-hint"></select>
+          </label>
+          <span id="hint" class="hint">Spaces, brackets, + and letters are all fine.</span>
+          <a class="vlink" href="#vanity">Words &harr; numbers &darr;</a>
+        </div>
+      </form>
+
+      <div class="examples" id="examples" aria-label="Examples">
+        <span class="ex-label">Try</span>
+      </div>
+
+      <div id="status" class="visually-hidden" role="status" aria-live="polite"></div>
+      <div id="results" class="results"></div>
+
+      <section class="card vanity" id="vanity" aria-labelledby="vanity-title">
+        <h2 id="vanity-title">Words &harr; numbers</h2>
+        <p class="v-lede">Type <b>0800 BUY DOGS</b> to get the digits — or digits like <b>0800 102 44</b> to see what they could spell.</p>
+        <div class="v-body">
+          <div class="keypad" role="group" aria-label="Phone keypad">
+          <button type="button" class="key" data-key="1" aria-label="1"><b>1</b><small>&nbsp;</small></button>
+          <button type="button" class="key" data-key="2" aria-label="2 A B C"><b>2</b><small>ABC</small></button>
+          <button type="button" class="key" data-key="3" aria-label="3 D E F"><b>3</b><small>DEF</small></button>
+          <button type="button" class="key" data-key="4" aria-label="4 G H I"><b>4</b><small>GHI</small></button>
+          <button type="button" class="key" data-key="5" aria-label="5 J K L"><b>5</b><small>JKL</small></button>
+          <button type="button" class="key" data-key="6" aria-label="6 M N O"><b>6</b><small>MNO</small></button>
+          <button type="button" class="key" data-key="7" aria-label="7 P Q R S"><b>7</b><small>PQRS</small></button>
+          <button type="button" class="key" data-key="8" aria-label="8 T U V"><b>8</b><small>TUV</small></button>
+          <button type="button" class="key" data-key="9" aria-label="9 W X Y Z"><b>9</b><small>WXYZ</small></button>
+          <button type="button" class="key" data-key="*" aria-label="*"><b>*</b><small>&nbsp;</small></button>
+          <button type="button" class="key" data-key="0" aria-label="0"><b>0</b><small>+</small></button>
+          <button type="button" class="key" data-key="#" aria-label="#"><b>#</b><small>&nbsp;</small></button>
+          </div>
+          <div class="v-io">
+            <label class="visually-hidden" for="vq">Words or digits</label>
+            <div class="field">
+              <input id="vq" type="text" spellcheck="false" autocapitalize="characters" autocorrect="off" autocomplete="off" maxlength="40" placeholder="0800 BUY DOGS · 0800 4357">
+              <button class="clear" id="vclear" type="button" aria-label="Clear" hidden>&times;</button>
+            </div>
+            <div id="vout" class="v-out" aria-live="polite"></div>
+          </div>
+        </div>
+      </section>
+    </section>
+
+    <aside class="st-ad" aria-label="SkeleTrace by whispr.dev">
+      <div class="st-inner">
+        <p class="st-kicker">From the makers of diallcode</p>
+        <h2 class="st-name">SkeleTrace</h2>
+        <p class="st-tag">OSINT made simple.</p>
+
+        <svg class="st-graph" viewBox="0 0 320 190" role="img" aria-label="A small network graph with one highlighted chain of links">
+          <g class="st-edges">
+            <line x1="40" y1="40" x2="110" y2="70"/><line x1="110" y1="70" x2="70" y2="140"/>
+            <line x1="110" y1="70" x2="190" y2="45"/><line x1="190" y1="45" x2="270" y2="70"/>
+            <line x1="110" y1="70" x2="170" y2="120"/><line x1="170" y1="120" x2="250" y2="150"/>
+            <line x1="70" y1="140" x2="170" y2="120"/><line x1="270" y1="70" x2="250" y2="150"/>
+            <line x1="190" y1="45" x2="170" y2="120"/><line x1="40" y1="40" x2="70" y2="140"/>
+          </g>
+          <polyline class="st-chain" points="40,40 110,70 170,120 250,150"/>
+          <g class="st-nodes">
+            <circle cx="40" cy="40" r="6" class="hot"/><circle cx="110" cy="70" r="7"/><circle cx="70" cy="140" r="5"/>
+            <circle cx="190" cy="45" r="5"/><circle cx="270" cy="70" r="5"/><circle cx="170" cy="120" r="6"/>
+            <circle cx="250" cy="150" r="6" class="hot"/>
+          </g>
+          <g class="st-labels">
+            <text x="22" y="26">number</text><text x="226" y="176">place</text>
+          </g>
+        </svg>
+
+        <p class="st-blurb">A phone number is one clue. <strong>SkeleTrace</strong> maps how your clues connect — what links to what, where it sits, and how those links change over time — and keeps every sample tied to the source it came from.</p>
+
+        <ul class="st-points">
+          <li><b>Weak points</b> — the few nodes a network depends on</li>
+          <li><b>Strongest chain</b> — the most believable route between two nodes</li>
+          <li><b>Geofences</b> — what falls inside your areas of interest</li>
+          <li><b>Text sweeps</b> — watch-list hits and near-misses across any files</li>
+        </ul>
+
+        <p class="st-free">Free Community edition for Windows, macOS &amp; Linux.</p>
+        <div class="st-cta">
+          <a class="btn btn-primary" href="https://skeletrace.com/download/" rel="noopener">Download free</a>
+          <a class="btn btn-ghost" href="https://skeletrace.com/home/" rel="noopener">See how it works</a>
+        </div>
+        <p class="st-foot">Built by <a href="https://whispr.dev/" rel="noopener">whispr.dev</a> — software for clearer intelligence.</p>
+      </div>
+    </aside>
+  </main>
+
+  <footer class="footer">
+    <div class="wrap footer-in">
+      <p class="copyright">&copy; 2026 <a href="https://whispr.dev/" rel="noopener">whispr.dev</a></p>
+      <p class="privacy">Everything is worked out in your browser. What you type is never sent anywhere — the page only fetches country data files as it needs them.</p>
+      <p class="credits">Numbering data: Google <a href="https://github.com/google/libphonenumber" rel="noopener">libphonenumber</a> (Apache-2.0) via <a href="https://gitlab.com/catamphetamine/libphonenumber-js" rel="noopener">libphonenumber-js</a> (MIT). Reserved ranges: Ofcom, NANPA, ACMA, Arcep, Bundesnetzagentur, PTS. Word list: SCOWL. <a href="THIRD-PARTY-NOTICES.txt">Licences</a>.</p>
+    </div>
+  </footer>
+
+  <noscript><p class="noscript">diallcode needs JavaScript switched on — all the number crunching happens in your browser.</p></noscript>
+</body>
+</html>

@@ -1,0 +1,1 @@
+DCX.chunk("975",{"g":{"t":["Thimphu","Trongsa","Trashigang","Phuentsholing","Gelephu","Samdrup Jongkhar","Paro"],"e":{"1":"2:0,0:1,0:2,0:3,0:4","2":"20:5,1:5,1:5,5.2:6"}},"c":{"t":["B-Mobile of Bhutan Telecom","TashiCell of Tashi InfoComm"],"e":{"1":"1:0","2":"25:1,9:1"}},"z":{"t":["Asia/Thimphu"],"e":{"0":"0:0"}}});

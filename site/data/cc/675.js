@@ -1,0 +1,1 @@
+DCX.chunk("675",{"g":{"t":["NCD","Madang","Sepik","Morobe","Highlands","MP/Gulf/Tabubil/Kiunga","Islands"],"e":{"1":"3:0,1:4,0:5,2:6","2":"16:1,2:2,1:3"}},"c":{"t":["Digicel","bmobile","Vodafone"],"e":{"1":"7:0","2":"23.3:1,2.4:2,2:0"}},"z":{"t":["Pacific/Port_Moresby"],"e":{"0":"0:0"}}});

@@ -1,0 +1,1 @@
+DCX.chunk("679",{"g":{"t":["Suva City/Nausori/Korovou","Coral Coast/Sigatoka","Lautoka/Ba/Vatukoula/Tavua/Rakiraki","Nadi","Vanua Levu"],"e":{"1":"3:0","2":"1t:1,0:2,0:3,h:4,2:4"}},"c":{"t":["Vodafone","Digicel"],"e":{"1":"2:0,1:0,2:1,1:0","2":"1e.1:1,3.1:1,1:0,l:0,2.1:0,1.1:0,1:0"}},"z":{"t":["Pacific/Fiji"],"e":{"0":"0:0"}}});

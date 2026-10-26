@@ -1,0 +1,1 @@
+DCX.chunk("964",{"c":{"t":["ITPC","Itisaluna","Kalimat","Mobitel","ITC Fanoos","Imam Hussien Holy Shrine","IraqTel","Korek","Omnnea","Asiacell","Zain"],"e":{"2":"21:0,1:7,0:8,0:9,0.1:a","4":"5pk.1:1,x.1:2,7:3,z.1:4,9:0,2:5,0.1:6"}},"z":{"t":["Asia/Baghdad"],"e":{"0":"0:0"}}});

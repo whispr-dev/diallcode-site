@@ -1,0 +1,1 @@
+DCX.chunk("688",{"g":{"t":["Funafuti","Niulakita","Nui","Nukufetau","Nukulaelae","Nanumea","Nanumaga","Niutao","Vaitupu"],"e":{"2":"k:0,1:1,0:2,0:3,0:4,0:5,0:6,0:7,0:8"}},"c":{"t":["Tuvalu Telecom"],"e":{"1":"7:0,1:0"}},"z":{"t":["Pacific/Funafuti"],"e":{"0":"0:0"}}});

@@ -1,0 +1,1 @@
+DCX.chunk("690",{"g":{"t":["Atafu Atoll","Fakaofo Atoll","Nakunonu Atoll"],"e":{"1":"2:0,0:1,0:2"}},"c":{"t":["Teletok telecommunications"],"e":{"1":"7:0"}},"z":{"t":["Pacific/Fakaofo"],"e":{"0":"0:0"}}});

@@ -1,0 +1,1 @@
+DCX.chunk("993",{"g":{"t":["Ahal","Balkan","Daşoguz","Lebap","Mary"],"e":{"1":"1:0,0:1,0:2,0:3,0:4"}},"c":{"t":["TM-Cell","MTS (BARASH Communication)"],"e":{"1":"7:0","2":"1p.4:0,0.3:1"}},"z":{"t":["Asia/Ashgabat"],"e":{"0":"0:0"}}});

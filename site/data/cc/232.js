@@ -1,0 +1,1 @@
+DCX.chunk("232",{"g":{"t":["Freetown"],"e":{"2":"m:0"}},"c":{"t":["Sierratel","Africell","QCELL","Onlime","Orange"],"e":{"1":"6:3,0:4,0.1:1","2":"p:0,4:1,0.1:2,0:1,0.1:2,y:1,6:1"}},"z":{"t":["Africa/Freetown"],"e":{"0":"0:0"}}});

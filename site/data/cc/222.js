@@ -1,0 +1,1 @@
+DCX.chunk("222",{"g":{"t":["Nouakchott","Néma","Aioun","Kaédi","Sélibaby","Aleg","Zouérat","Atar","Boghé","Kiffa","Rosso/Tidjikja","Nouadhibou"],"e":{"2":"19:0","4":"3hd:1,1:2,h:3,0:4,2:5,6:6,1:7,3:8,c:9,5:a,4:b"}},"c":{"t":["Chinguitel","Mattel","Mauritel"],"e":{"2":"k.4:0,1.3:0,0.4:1,1.3:1,0.4:2,1.3:2"}},"z":{"t":["Africa/Nouakchott"],"e":{"0":"0:0"}}});

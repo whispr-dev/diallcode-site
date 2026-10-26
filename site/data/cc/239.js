@@ -1,0 +1,1 @@
+DCX.chunk("239",{"g":{"t":["Santo Amaro","Água Grande","Guadalupe","Neves, Santa Catarina","Autonomous Region of Príncipe","Angolares, Porto Alegre","Santana, Ribeira Afonso","Trindade","Madalena"],"e":{"3":"68:1,3.1:1","4":"1po:0,0.7:1,2:2,1:3,h:4,9:5,3:6,5:7,0:8"}},"c":{"t":["Unitel","CSTmovel"],"e":{"2":"2i:0,7.1:1"}},"z":{"t":["Africa/Sao_Tome"],"e":{"0":"0:0"}}});

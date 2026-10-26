@@ -1,0 +1,1 @@
+DCX.chunk("257",{"g":{"t":["Bujumbura","West zone","Rural areas","North zone","Central east zone","South zone"],"e":{"4":"1po.5:0,0:1,0:2,2:3,9:4,9:5"}},"c":{"t":["Leo","Lumitel","Smart Mobile","Onatel"],"e":{"1":"6:1","2":"t:0,15.1:0,2:2,0:0,0:3,0:2,0:0"}},"z":{"t":["Africa/Bujumbura"],"e":{"0":"0:0"}}});

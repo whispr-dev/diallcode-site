@@ -1,0 +1,1 @@
+DCX.chunk("850",{"g":{"t":["Pyongyang","Nampo","Sariwon","Haeju","Kaesong","Hamhung","Wonsan","Sinuiju","Kanggye","Chongjin","Hyesan","Rason"],"e":{"1":"8:b","2":"l:0,5.1:0,2:0,7:1,1:2,3:3,3:4,3:5,3:6,3:7,5:8,5:9,5:a","3":"5f:0","4":"1u5:0"}},"c":{"t":["Koryolink","KPTC"],"e":{"3":"5b.1:0,0:1"}},"z":{"t":["Asia/Seoul"],"e":{"0":"0:0"}}});

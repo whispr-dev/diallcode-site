@@ -1,0 +1,1 @@
+DCX.chunk("501",{"g":{"t":["Belize District","Orange Walk District","Corozal District","Stann Creek District","Toledo District","Cayo District"],"e":{"1":"2:0,0:1,0:2,0:3,1:4,0:5"}},"c":{"t":["Belize Telemedia Ltd (Digi)","Speednet (Smart)"],"e":{"2":"1o.3:0,2.1:1","3":"i2.5:1,0:0,m:0"}},"z":{"t":["America/Belize"],"e":{"0":"0:0"}}});

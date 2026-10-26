@@ -1,0 +1,14 @@
+{
+  "name": "diallcode-site",
+  "private": true,
+  "description": "Build-time helpers for diallcode.site (the site itself has no dependencies to install)",
+  "license": "UNLICENSED",
+  "scripts": {
+    "words": "node tools/build_words.js",
+    "test": "node tools/engine_test.js"
+  },
+  "devDependencies": {
+    "badwords-list": "2.0.1-4",
+    "wordlist-english": "1.2.1"
+  }
+}

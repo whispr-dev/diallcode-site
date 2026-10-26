@@ -1,0 +1,1 @@
+DCX.chunk("249",{"g":{"t":["Khartoum","Khartoum North","Khartoum Rural","Omdurman"],"e":{"3":"49:0,1:1,0:2,0:3,p:0,1:1,0:2,0:3"}},"c":{"t":["Sudatel","Zain","MTN","Network of The World Ltd"],"e":{"2":"a.2:0,25.1:1,0.1:2,1:3,0:1,2:2"}},"z":{"t":["Africa/Khartoum"],"e":{"0":"0:0"}}});

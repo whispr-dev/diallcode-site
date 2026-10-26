@@ -1,0 +1,1 @@
+DCX.chunk("968",{"g":{"t":["Dhofar & Al Wusta","Muscat","A’Dakhliyah, Al Sharqiya & A’Dhahira","Al Batinah & Musandam"],"e":{"2":"n:0,0:1,0:2,0:3"}},"c":{"t":["Ooredoo","Omantel","Vodafone Oman"],"e":{"1":"1:0","2":"1z.1:1,1:0,0.2:2,0:0,c.2:1,0.3:0,0.1:1","3":"ly.6:0,2w.8:1"}},"z":{"t":["Asia/Muscat"],"e":{"0":"0:0"}}});

@@ -1,0 +1,1 @@
+DCX.chunk("971",{"g":{"t":["Abu dhabi","Al Ain","Dubai","Sharjah, Ajman, Umm Al-Qaiwain","Ras Alkhaimah","Fujairah"],"e":{"1":"2:0,0:1","2":"16.6:2,d.6:3,3.6:4,d.6:5"}},"c":{"t":["Etisalat","du","Virgin Mobile"],"e":{"2":"1e:0,1:1,0:2,0:0,0:1,0:0,1:1"}},"z":{"t":["Asia/Dubai"],"e":{"0":"0:0"}}});
